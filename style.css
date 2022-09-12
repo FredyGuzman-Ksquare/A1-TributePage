@@ -32,15 +32,15 @@ dt, h3{
     display: block;
     margin: auto;
 }
-  
-.text-center {
-    color: cornsilk;
-    text-align: center
-}
 .center-title{
     color: rgb(125, 226, 43);
-    text-align: center
+    text-align: center;
 }
+.text-center {
+    color: cornsilk;
+    text-align: center;
+}
+
 dl{
     margin-left: 10%;
     margin-right: 10%;
@@ -49,5 +49,5 @@ dd{
     color: cornsilk;
 }
 h3 {
-    text-align: center
+    text-align: center;
   }
