@@ -1,0 +1,50 @@
+.container-fluid {
+    background: rgb(50, 50, 50);
+    margin-left: 15%;
+    margin-right: 15%;
+  }
+body {
+    background: rgb(45, 45, 45);
+  }
+ 
+img {
+    width: 300px;
+  }
+
+p{
+    color: cornsilk;
+}
+dt, h3{
+    color: rgb(125, 226, 43);
+}
+
+.font {
+    font-size: 20px;
+    text-align: right;
+}
+
+.link {
+    font-size: 18px;
+    color: rgb(125, 226, 43);
+}
+
+.main-image {
+    display: block;
+    margin: auto;
+}
+  
+.text-center {
+    color: cornsilk;
+    text-align: center
+  
+}
+dl{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+dd{
+    color: cornsilk;
+}
+h3 {
+    text-align: center
+  }
