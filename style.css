@@ -36,7 +36,10 @@ dt, h3{
 .text-center {
     color: cornsilk;
     text-align: center
-  
+}
+text-center-title{
+    text-align: center
+    color: rgb(125, 226, 43);
 }
 dl{
     margin-left: 10%;
